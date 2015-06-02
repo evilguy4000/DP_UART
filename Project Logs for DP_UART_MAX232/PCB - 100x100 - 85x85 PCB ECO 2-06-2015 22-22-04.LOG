@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC Pin=K1-2
+Removed Pin From Net: NetName=3V3 Pin=K1-3
+Removed Pin From Net: NetName=RX Pin=K1-4
+Removed Pin From Net: NetName=TX Pin=K1-5
+Removed Pin From Net: NetName=GND Pin=K1-6
+Removed Pin From Net: NetName=VCC Pin=U1-16
+Change Component DesignItemId : Designator=K1 Old DesignItemId=Connector_Headers_THT_1X6 New DesignItemId=Connector_Headers_THT_1X5
+Change Component Footprint: Designator=K1 Old Footprint=HEADER-1X6 New Footprint=HEADER-1X5
+Change Component Comment : Designator=K1 Old Comment=Connector_Headers_THT_1X6 New Comment=Connector_Headers_THT_1X5
+Added Pin To Net: NetName=3V3 Pin=K1-2
+Added Pin To Net: NetName=RX Pin=K1-3
+Added Pin To Net: NetName=TX Pin=K1-4
+Added Pin To Net: NetName=GND Pin=K1-5
+Added Pin To Net: NetName=5V0 Pin=U1-16
+Added Room: Name=DP_UART_RVA

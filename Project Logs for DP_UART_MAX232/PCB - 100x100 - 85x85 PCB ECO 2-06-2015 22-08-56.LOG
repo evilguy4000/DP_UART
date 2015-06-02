@@ -1,0 +1,78 @@
+Added Component: Designator=C1(0603C-GENERIC)
+Added Component: Designator=C2(0603C-GENERIC)
+Added Component: Designator=C3(0603C-GENERIC)
+Added Component: Designator=C4(0603C-GENERIC)
+Added Component: Designator=C5(0603C-GENERIC)
+Added Component: Designator=D1(0805LED)
+Added Component: Designator=D2(0805LED)
+Added Component: Designator=D3(0805LED)
+Added Component: Designator=K1(HEADER-1X6)
+Added Component: Designator=K2(USB_F_MINI)
+Added Component: Designator=R1(0603R-1k5)
+Added Component: Designator=R2(0603R-1k5)
+Added Component: Designator=R3(0603R-1k5)
+Added Component: Designator=U1(SO16)
+Added Component: Designator=Y1(XTAL 3225)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=3V3 Pin=K1-3
+Added Pin To Net: NetName=GND Pin=K1-6
+Added Pin To Net: NetName=GND Pin=K2-5
+Added Pin To Net: NetName=GND Pin=K2-M1
+Added Pin To Net: NetName=GND Pin=K2-M2
+Added Pin To Net: NetName=GND Pin=K2-M3
+Added Pin To Net: NetName=GND Pin=K2-M4
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-3
+Added Pin To Net: NetName=5V0 Pin=C3-2
+Added Pin To Net: NetName=5V0 Pin=K1-1
+Added Pin To Net: NetName=5V0 Pin=K2-1
+Added Pin To Net: NetName=5V0 Pin=R3-1
+Added Net: Name=5V0
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R2-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R3-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=RX Pin=D2-K
+Added Pin To Net: NetName=RX Pin=K1-4
+Added Pin To Net: NetName=RX Pin=U1-3
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=D1-K
+Added Pin To Net: NetName=TX Pin=K1-5
+Added Pin To Net: NetName=TX Pin=U1-2
+Added Net: Name=TX
+Added Pin To Net: NetName=USB_N Pin=K2-2
+Added Pin To Net: NetName=USB_N Pin=U1-6
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=K2-3
+Added Pin To Net: NetName=USB_P Pin=U1-5
+Added Net: Name=USB_P
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=K1-2
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Net: Name=VCC
+Added Pin To Net: NetName=Y_IN Pin=C5-1
+Added Pin To Net: NetName=Y_IN Pin=U1-8
+Added Pin To Net: NetName=Y_IN Pin=Y1-2
+Added Net: Name=Y_IN
+Added Pin To Net: NetName=Y_OUT Pin=C4-2
+Added Pin To Net: NetName=Y_OUT Pin=U1-7
+Added Pin To Net: NetName=Y_OUT Pin=Y1-4
+Added Net: Name=Y_OUT
+Added Class: Name=DP_UART_RVA
+Added Differential Pair: Name=USB
+Added Room: Name=DP_UART_RVA
