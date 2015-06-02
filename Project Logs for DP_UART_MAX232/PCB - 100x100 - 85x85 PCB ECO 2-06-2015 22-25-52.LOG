@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3V3 Pin=K1-2
+Removed Pin From Net: NetName=RX Pin=K1-3
+Removed Pin From Net: NetName=TX Pin=K1-4
+Added Pin To Net: NetName=RX Pin=K1-2
+Added Pin To Net: NetName=TX Pin=K1-3
+Added Pin To Net: NetName=3V3 Pin=K1-4
+Added Member To Class: ClassName=DP_UART_RVA Member=Component C4 22pF
